@@ -1,2 +1,2 @@
 # Andrey Milevskijj  
-> [homework](https://github.com/Nike5170/andrey.github.io "ghdghd") -это ссылка на дз
+> [homework](https://github.com/Nike5170/CoffeeMenu"https://github.com/Nike5170/CoffeeMenu") -это ссылка на дз
